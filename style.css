@@ -1,0 +1,57 @@
+.basic{
+    text-align: center;
+    color: cyan;
+    margin-top: 5px;
+
+}
+.main{
+    border: 1px solid black;
+    width: 160px;
+    /* border-radius: 8px; */
+    margin: 0 auto;
+    background-color: black;
+}
+.inputNum{
+    /* border: 1px solid grey; 
+     border-radius: 50pxs; */
+    background-color: white;
+    width: 152px;
+
+   
+
+}
+#num7,#num4,#num1{
+    background-color: teal;
+}
+#num8,#num5,#num2{
+    background-color: turquoise;
+}
+#num9,#num6,#num3{
+    background-color: violet;
+}
+#plus,#minus,#multi{
+    background-color: yellow;
+}
+.clearBtn{
+    width:37px;
+    /* margin-top: 8px; */
+    border-radius:  50%;
+    margin-inline: auto;
+    background-color: wheat;
+}
+.Btn{
+    width: 35px;
+    margin: 1px;
+    border-radius: 50%;
+    background-color: wheat;
+    text-align: center;
+    text-shadow: white;
+
+}
+.halfBtn{
+    width: 77px;
+    border-radius: 50%;
+    margin-top: 2px;
+    background-color: wheat;
+
+}
